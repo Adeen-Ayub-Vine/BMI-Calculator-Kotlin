@@ -7,9 +7,7 @@ This is a simple **BMI Calculator** Android application built using **Kotlin** i
 - **User Input**: Users enter their weight in kg and height in cm.
 - **BMI Calculation**: The app calculates the BMI based on the formula:
 
-  \[
-  \text{BMI} = \frac{\text{Weight (kg)}}{(\text{Height (m)})^2}
-  \]
+  BMI = Weight (kg) / [Height (m)]²
 
   Since the height is entered in centimeters, the formula in the app converts the height to meters by dividing by 100.
   

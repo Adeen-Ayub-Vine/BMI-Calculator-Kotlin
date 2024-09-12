@@ -27,7 +27,7 @@ This is a simple **BMI Calculator** Android application built using **Kotlin** i
 3. The result is displayed along with the appropriate BMI category.
 
 ### Screenshots
-![App Screenshot](bmi_image.jpeg)
+![BMI Calculator Screenshot](bmi%20image.jpeg)
 
 ### Installation and Setup
 1. Clone the repository:
